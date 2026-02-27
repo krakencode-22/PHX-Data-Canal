@@ -1119,110 +1119,6 @@
   },
   {
     "id": 87,
-    "jobTitle": "Source: JobsEQ\u00ae",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 88,
-    "jobTitle": "Data as of 02/27/2026",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 89,
-    "jobTitle": "1. Query:",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 90,
-    "jobTitle": "This region: Maricopa County, Arizona",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 91,
-    "jobTitle": "Postings where job titles contains: analyst, data, developer",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 92,
-    "jobTitle": "This industry: Information Technology and Analytical Instruments (US Cluster Mapping) (10123)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 93,
-    "jobTitle": "This occupations: Computer and Information Systems Managers (11-3021.00)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 94,
-    "jobTitle": "Exported on: Friday, February 27, 2026 10:15 AM",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Computer and Information Systems Managers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 95,
     "jobTitle": "Senior Data Center Facilities Engineer I",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1235,7 +1131,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/698e5d1f7792541348c8c11e/senior-data-center-facilities-engineer-i?lic=2040&uid=36922"
   },
   {
-    "id": 96,
+    "id": 88,
     "jobTitle": "Senior Data Center Network Deployment Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1248,7 +1144,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6991f5c99b7d5111c0469d1d/senior-data-center-network-deployment-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 97,
+    "id": 89,
     "jobTitle": "Network Developer 5",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1261,7 +1157,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/698760267792541348c47fe9/network-developer-5?lic=2040&uid=36922"
   },
   {
-    "id": 98,
+    "id": 90,
     "jobTitle": "Senior Network Automation Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1274,7 +1170,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/697e34a777925407b8fc185c/senior-network-automation-developer?lic=2040&uid=36922"
   },
   {
-    "id": 99,
+    "id": 91,
     "jobTitle": "Data Center Manager",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1287,7 +1183,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6994c526597292207e741dac/data-center-manager?lic=2040&uid=36922"
   },
   {
-    "id": 100,
+    "id": 92,
     "jobTitle": "Senior Data Center Technician",
     "employer": "Microsoft",
     "location": "Phoenix, Arizona",
@@ -1300,7 +1196,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/694c11ed779254188088f5b3/senior-data-center-technician?lic=2040&uid=36922"
   },
   {
-    "id": 101,
+    "id": 93,
     "jobTitle": "Principal Data Center Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1313,7 +1209,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699f1e7013a52c00010dacf3/principal-data-center-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 102,
+    "id": 94,
     "jobTitle": "Network Security Engineer- Automation Developer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1326,7 +1222,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69403f44c643cf0001ce4dbe/network-security-engineer-automation-developer?lic=2040&uid=36922"
   },
   {
-    "id": 103,
+    "id": 95,
     "jobTitle": "Site Lead, Data Center Operations, JoinOCI",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1339,7 +1235,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6938449e7792541880790426/site-lead-data-center-operations-joinoci?lic=2040&uid=36922"
   },
   {
-    "id": 104,
+    "id": 96,
     "jobTitle": "Senior Network Development Manager",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1352,7 +1248,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/692f20ee7792541880716e7c/senior-network-development-manager?lic=2040&uid=36922"
   },
   {
-    "id": 105,
+    "id": 97,
     "jobTitle": "Hardware Developer 4 (Sustaining Engineer)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1365,7 +1261,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6918b953779254030cbb6d40/hardware-developer-4-sustaining-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 106,
+    "id": 98,
     "jobTitle": "Network Development Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1378,7 +1274,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6906298a7792541e800ede30/network-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 107,
+    "id": 99,
     "jobTitle": "Prinicpal Network Developer (DDOS)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1391,7 +1287,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68ff9dd47792541e800be8b7/prinicpal-network-developer-ddos?lic=2040&uid=36922"
   },
   {
-    "id": 108,
+    "id": 100,
     "jobTitle": "Configuration Test Analyst - Oracle Health (Hybrid in Kansas City, MO)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1404,7 +1300,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6925c61a7318e90f74ff03d2/configuration-test-analyst-oracle-health-hybrid-in-kansas-city-mo?lic=2040&uid=36922"
   },
   {
-    "id": 109,
+    "id": 101,
     "jobTitle": "Network Developer 5",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1417,7 +1313,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f3c9a69b7d5002808ca580/network-developer-5?lic=2040&uid=36922"
   },
   {
-    "id": 110,
+    "id": 102,
     "jobTitle": "Sr Network Developer (DDOS)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1430,7 +1326,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68ff998a9b7d5001a88da3e8/sr-network-developer-ddos?lic=2040&uid=36922"
   },
   {
-    "id": 111,
+    "id": 103,
     "jobTitle": "Telecom / Data Center Network SME - Fiber Infrastructure",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1443,7 +1339,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e7efcf7792541e8002f438/telecom-data-center-network-sme-fiber-infrastructure?lic=2040&uid=36922"
   },
   {
-    "id": 112,
+    "id": 104,
     "jobTitle": "Senior Data Center Technician",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1456,7 +1352,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f3c7037318e91ce0d4d261/senior-data-center-technician?lic=2040&uid=36922"
   },
   {
-    "id": 113,
+    "id": 105,
     "jobTitle": "Network Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1469,7 +1365,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69063e539b7d510d4407e2c3/network-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 114,
+    "id": 106,
     "jobTitle": "Hardware Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1482,7 +1378,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e400229b7d511908de929d/hardware-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 115,
+    "id": 107,
     "jobTitle": "Senior Principal Analyst - GoldenGate",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1495,7 +1391,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e7e5b47318e91ce0d2b633/senior-principal-analyst-goldengate?lic=2040&uid=36922"
   },
   {
-    "id": 116,
+    "id": 108,
     "jobTitle": "Senior Network Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1508,111 +1404,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/689811c97318e923608396f7/senior-network-developer?lic=2040&uid=36922"
   },
   {
-    "id": 117,
-    "jobTitle": "Source: JobsEQ\u00ae",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 118,
-    "jobTitle": "Data as of 02/27/2026",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 119,
-    "jobTitle": "1. Query:",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 120,
-    "jobTitle": "This region: Maricopa County, Arizona",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 121,
-    "jobTitle": "Postings where job titles contains: analyst, data, developer",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 122,
-    "jobTitle": "This industry: Information Technology and Analytical Instruments (US Cluster Mapping) (10123)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 123,
-    "jobTitle": "This occupations: Network and Computer Systems Administrators (15-1244.00)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 124,
-    "jobTitle": "Exported on: Friday, February 27, 2026 10:15 AM",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Network and Computer System Administrators",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 125,
+    "id": 109,
     "jobTitle": "Packaging Module Development Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1625,7 +1417,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699e01e013a52c00010d5899/packaging-module-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 126,
+    "id": 110,
     "jobTitle": "Packaging Module Development Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1638,7 +1430,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699e01e01e2f7700018e67a6/packaging-module-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 127,
+    "id": 111,
     "jobTitle": "Remote Senior Software Developer - AI Experience- Oracle Health",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1651,7 +1443,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699dd90e13a52c00010d393d/remote-senior-software-developer-ai-experience-oracle-health?lic=2040&uid=36922"
   },
   {
-    "id": 128,
+    "id": 112,
     "jobTitle": "Yield Development Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1664,7 +1456,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/698e2e4d9b7d510c300883b3/yield-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 129,
+    "id": 113,
     "jobTitle": "Oracle Cloud Services Developer - Oracle Consulting Services",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1677,7 +1469,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6990b6ac9b7d5111c0461cea/oracle-cloud-services-developer-oracle-consulting-services?lic=2040&uid=36922"
   },
   {
-    "id": 130,
+    "id": 114,
     "jobTitle": "Principal Software Developer- Systems Programming/Database Internals",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1690,7 +1482,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699de48513a52c00010d3fb5/principal-software-developer-systems-programming-database-internals?lic=2040&uid=36922"
   },
   {
-    "id": 131,
+    "id": 115,
     "jobTitle": "Manager, Software Development",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1703,7 +1495,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/698cbbb39b7d510fa4f232d2/manager-software-development?lic=2040&uid=36922"
   },
   {
-    "id": 132,
+    "id": 116,
     "jobTitle": "Principal Software Developer 5",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1716,7 +1508,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/699b2fa07f2f6c0001b607f0/principal-software-developer-5?lic=2040&uid=36922"
   },
   {
-    "id": 133,
+    "id": 117,
     "jobTitle": "Sr. Salesforce Developer",
     "employer": "Early Warning",
     "location": "16552 N 90th St, Scottsdale, AZ 85260",
@@ -1729,7 +1521,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6977d0167792541880a8de36/sr-salesforce-developer?lic=2040&uid=36922"
   },
   {
-    "id": 134,
+    "id": 118,
     "jobTitle": "Software Development Snr Manager",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1742,7 +1534,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6984b3057318e90a703770c4/software-development-snr-manager?lic=2040&uid=36922"
   },
   {
-    "id": 135,
+    "id": 119,
     "jobTitle": "Full Stack C# Developer  Software Engineer",
     "employer": "Applied Materials",
     "location": "Chandler, Arizona",
@@ -1755,7 +1547,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6973bb367318e90c7051534b/full-stack-c-developer-software-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 136,
+    "id": 120,
     "jobTitle": "Senior?Software Engineer?(AI-Enhanced Development Lead)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1768,7 +1560,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/697e39cc7318e90c70559ba6/senior-software-engineer-ai-enhanced-development-lead?lic=2040&uid=36922"
   },
   {
-    "id": 137,
+    "id": 121,
     "jobTitle": "Senior Software Developer - Business Intelligence/Analytics",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1781,7 +1573,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/697e2c8d7318e90c7055952e/senior-software-developer-business-intelligence-analytics?lic=2040&uid=36922"
   },
   {
-    "id": 138,
+    "id": 122,
     "jobTitle": "Software Development Engineer in Test (SDET)",
     "employer": "Applied Materials",
     "location": "Chandler, Arizona",
@@ -1794,7 +1586,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/696932867318e90c704cb9d6/software-development-engineer-in-test-sdet?lic=2040&uid=36922"
   },
   {
-    "id": 139,
+    "id": 123,
     "jobTitle": "Software Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1807,7 +1599,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6963d9197792541880989e17/software-developer?lic=2040&uid=36922"
   },
   {
-    "id": 140,
+    "id": 124,
     "jobTitle": "AI & Cloud-Native Developer Lead",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1820,7 +1612,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6953ffbf7318e90c70449c60/ai-cloud-native-developer-lead?lic=2040&uid=36922"
   },
   {
-    "id": 141,
+    "id": 125,
     "jobTitle": "Principal Software Developer - DevOps Automation (US Citizenship Required)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1833,7 +1625,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/694d7110779254188089b111/principal-software-developer-devops-automation-us-citizenship-required?lic=2040&uid=36922"
   },
   {
-    "id": 142,
+    "id": 126,
     "jobTitle": "Developer II - Salesforce",
     "employer": "Microchip Technology Inc",
     "location": "Chandler, Arizona",
@@ -1846,7 +1638,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6946c87b7792541880858f7d/developer-ii-salesforce?lic=2040&uid=36922"
   },
   {
-    "id": 143,
+    "id": 127,
     "jobTitle": "Sr Principal Applications Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1859,7 +1651,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/694c09927318e90c7042f91f/sr-principal-applications-developer?lic=2040&uid=36922"
   },
   {
-    "id": 144,
+    "id": 128,
     "jobTitle": "Oracle Cloud PaaS Full Stack Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1872,7 +1664,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/697646e57792541880a7fa35/oracle-cloud-paas-full-stack-developer?lic=2040&uid=36922"
   },
   {
-    "id": 145,
+    "id": 129,
     "jobTitle": "Senior Software Engineer (IC4), OCI Networking - Data Center Transports",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1885,7 +1677,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69403ca877925418807fa1bc/senior-software-engineer-ic4-oci-networking-data-center-transports?lic=2040&uid=36922"
   },
   {
-    "id": 146,
+    "id": 130,
     "jobTitle": "Principal AI Software Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1898,7 +1690,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6944380b7792541880832a44/principal-ai-software-developer?lic=2040&uid=36922"
   },
   {
-    "id": 147,
+    "id": 131,
     "jobTitle": "Principal Cloud DevOps Engineer, Data Pipeline",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1911,7 +1703,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69403b2d77925418807f9f86/principal-cloud-devops-engineer-data-pipeline?lic=2040&uid=36922"
   },
   {
-    "id": 148,
+    "id": 132,
     "jobTitle": "Principal Full Stack Developer - OCI",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1924,7 +1716,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69480e8a7318e90c7041ab43/principal-full-stack-developer-oci?lic=2040&uid=36922"
   },
   {
-    "id": 149,
+    "id": 133,
     "jobTitle": "Data Center Software Architect",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1937,7 +1729,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69403c6977925418807fa0f9/data-center-software-architect?lic=2040&uid=36922"
   },
   {
-    "id": 150,
+    "id": 134,
     "jobTitle": "Senior Big Data Platform Engineer (U.S. Citizenship required)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1950,7 +1742,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/694ab229779254188087d613/senior-big-data-platform-engineer-u-s-citizenship-required?lic=2040&uid=36922"
   },
   {
-    "id": 151,
+    "id": 135,
     "jobTitle": "Senior Software Developer - Public Safety",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1963,7 +1755,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/693aee9d7318e90c703c47f3/senior-software-developer-public-safety?lic=2040&uid=36922"
   },
   {
-    "id": 152,
+    "id": 136,
     "jobTitle": "Principal Software Development Engineer (OCI)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -1976,7 +1768,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/692b18f09b7d5018d86d5dbc/principal-software-development-engineer-oci?lic=2040&uid=36922"
   },
   {
-    "id": 153,
+    "id": 137,
     "jobTitle": "Global Head, AI Software Developer Evangelism",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -1989,7 +1781,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6925c4f59b7d512074f515f1/global-head-ai-software-developer-evangelism?lic=2040&uid=36922"
   },
   {
-    "id": 154,
+    "id": 138,
     "jobTitle": "Principal UX Designer, AI Data Platform",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2002,7 +1794,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/692b22207792541880702821/principal-ux-designer-ai-data-platform?lic=2040&uid=36922"
   },
   {
-    "id": 155,
+    "id": 139,
     "jobTitle": "Senior Principal Member of Technical Staff (OCI-Data)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2015,7 +1807,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/692b1ec09b7d5018d86d6232/senior-principal-member-of-technical-staff-oci-data?lic=2040&uid=36922"
   },
   {
-    "id": 156,
+    "id": 140,
     "jobTitle": "Senior Software Development Engineer (SDE) 3",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2028,7 +1820,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/692b23d77792541880702993/senior-software-development-engineer-sde-3?lic=2040&uid=36922"
   },
   {
-    "id": 157,
+    "id": 141,
     "jobTitle": "Principal Software Developer - DS\\DE",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2041,7 +1833,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6925b19e9b7d512074f509ba/principal-software-developer-ds-de?lic=2040&uid=36922"
   },
   {
-    "id": 158,
+    "id": 142,
     "jobTitle": "Software Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2054,7 +1846,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6918b4449b7d500c58e8cc73/software-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 159,
+    "id": 143,
     "jobTitle": "OIC Integration Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2067,7 +1859,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6957f37b77925418808ed683/oic-integration-developer?lic=2040&uid=36922"
   },
   {
-    "id": 160,
+    "id": 144,
     "jobTitle": "Software Developer 5 - OCI AI Platform",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2080,7 +1872,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6918bd68779254030cbb6fe9/software-developer-5-oci-ai-platform?lic=2040&uid=36922"
   },
   {
-    "id": 161,
+    "id": 145,
     "jobTitle": "Software Development Senior Manager (OCI)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2093,7 +1885,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6918bd69779254030cbb6ff1/software-development-senior-manager-oci?lic=2040&uid=36922"
   },
   {
-    "id": 162,
+    "id": 146,
     "jobTitle": "Senior Systems C, C++ Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2106,7 +1898,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6918bd689b7d500c58e8d120/senior-systems-c-c-developer?lic=2040&uid=36922"
   },
   {
-    "id": 163,
+    "id": 147,
     "jobTitle": "Principal Backend Developer (DDOS)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2119,7 +1911,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68ff9dd59b7d5001a88da55e/principal-backend-developer-ddos?lic=2040&uid=36922"
   },
   {
-    "id": 164,
+    "id": 148,
     "jobTitle": "Automation Software Development Integration Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -2132,7 +1924,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f4b8719b7d510a1843bc47/automation-software-development-integration-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 165,
+    "id": 149,
     "jobTitle": "REMOTE Senior AI/ML Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2145,7 +1937,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f3c9687792541e80078e12/remote-senior-ai-ml-developer?lic=2040&uid=36922"
   },
   {
-    "id": 166,
+    "id": 150,
     "jobTitle": "Principal Software Developer - Network Load Balancer Data Plane",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2158,7 +1950,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f664947792541e800819ce/principal-software-developer-network-load-balancer-data-plane?lic=2040&uid=36922"
   },
   {
-    "id": 167,
+    "id": 151,
     "jobTitle": "Sr Principal Software Developer (Join OCI-Ns2)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2171,7 +1963,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f3c7409b7d510a18437b2d/sr-principal-software-developer-join-oci-ns2?lic=2040&uid=36922"
   },
   {
-    "id": 168,
+    "id": 152,
     "jobTitle": "Developer Relations Engineer",
     "employer": "Canonical",
     "location": "Phoenix, Arizona",
@@ -2184,7 +1976,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e3fb46d6cf9b000154aa8a/developer-relations-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 169,
+    "id": 153,
     "jobTitle": "Data Center Controls & BMS Software Architect",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2197,7 +1989,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/69402c5c7318e90c703e35d1/data-center-controls-bms-software-architect?lic=2040&uid=36922"
   },
   {
-    "id": 170,
+    "id": 154,
     "jobTitle": "Principal Software Developer - BMC Development",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2210,7 +2002,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e942a07318e91ce0d2fa0c/principal-software-developer-bmc-development?lic=2040&uid=36922"
   },
   {
-    "id": 171,
+    "id": 155,
     "jobTitle": "Senior FW Development Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2223,7 +2015,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68fe47667318e91ce0d6bb8e/senior-fw-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 172,
+    "id": 156,
     "jobTitle": "Data Model Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2236,7 +2028,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/691ca3229b7d500c58ea3644/data-model-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 173,
+    "id": 157,
     "jobTitle": "Senior/Principal Software Developer- LLM Experience",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2249,7 +2041,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68e3fcc29b7d50077c89b767/senior-principal-software-developer-llm-experience?lic=2040&uid=36922"
   },
   {
-    "id": 174,
+    "id": 158,
     "jobTitle": "Principal Software Developer - Oracle Health REMOTE",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2262,7 +2054,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6925be0d9b7d50183c9c7e04/principal-software-developer-oracle-health-remote?lic=2040&uid=36922"
   },
   {
-    "id": 175,
+    "id": 159,
     "jobTitle": "Software Development Snr Manager - Oracle Health",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2275,7 +2067,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68d926969b7d50077c8601e5/software-development-snr-manager-oracle-health?lic=2040&uid=36922"
   },
   {
-    "id": 176,
+    "id": 160,
     "jobTitle": "Senior Principal Software Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2288,7 +2080,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6925c5ae9b7d512074f51711/senior-principal-software-developer?lic=2040&uid=36922"
   },
   {
-    "id": 177,
+    "id": 161,
     "jobTitle": "Remote Senior Member of Technical Staff - JAVA FullStack Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2301,7 +2093,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/698e0dd47318e90a703aba51/remote-senior-member-of-technical-staff-java-fullstack-developer?lic=2040&uid=36922"
   },
   {
-    "id": 178,
+    "id": 162,
     "jobTitle": "Senior/ Principal Member of Technical Staff - Backend Developer - Remote",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2314,7 +2106,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68c0fe779b7d500c9c25507b/senior-principal-member-of-technical-staff-backend-developer-remote?lic=2040&uid=36922"
   },
   {
-    "id": 179,
+    "id": 163,
     "jobTitle": "Software Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2327,7 +2119,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68c24ff67792540dbc8337ed/software-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 180,
+    "id": 164,
     "jobTitle": "Software Development Senior Manager",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2340,7 +2132,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68c24aab9b7d50077c7cc59d/software-development-senior-manager?lic=2040&uid=36922"
   },
   {
-    "id": 181,
+    "id": 165,
     "jobTitle": "Software Developer 3",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2353,7 +2145,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68d7bde79b7d50077c859266/software-developer-3?lic=2040&uid=36922"
   },
   {
-    "id": 182,
+    "id": 166,
     "jobTitle": "Software Developer - Architect",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2366,7 +2158,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68f509129b7d5002808cf5bb/software-developer-architect?lic=2040&uid=36922"
   },
   {
-    "id": 183,
+    "id": 167,
     "jobTitle": "Software Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2379,7 +2171,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68a8034c7318e92360868ade/software-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 184,
+    "id": 168,
     "jobTitle": "Senior Data Integration Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2392,7 +2184,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6892d4ef9b7d500fecb1b8c8/senior-data-integration-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 185,
+    "id": 169,
     "jobTitle": "Software Developer 3",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2405,7 +2197,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68c656649b7d50077c7e853d/software-developer-3?lic=2040&uid=36922"
   },
   {
-    "id": 186,
+    "id": 170,
     "jobTitle": "Senior Software Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2418,7 +2210,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/689041197792540dbc6d5aae/senior-software-developer?lic=2040&uid=36922"
   },
   {
-    "id": 187,
+    "id": 171,
     "jobTitle": "Software Developer 3",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2431,7 +2223,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6892e1db7318e90d609b0499/software-developer-3?lic=2040&uid=36922"
   },
   {
-    "id": 188,
+    "id": 172,
     "jobTitle": "Software Application Development Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -2444,7 +2236,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/685bc5af7792540e60622cc0/software-application-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 189,
+    "id": 173,
     "jobTitle": "Software Developer 3",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2457,7 +2249,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68abec079b7d510dd860c0be/software-developer-3?lic=2040&uid=36922"
   },
   {
-    "id": 190,
+    "id": 174,
     "jobTitle": "Senior Director Software Development (OCI/GEN AI SD & Ml)",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2470,7 +2262,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6896ca1e9b7d510e1c2bf49b/senior-director-software-development-oci-gen-ai-sd-ml?lic=2040&uid=36922"
   },
   {
-    "id": 191,
+    "id": 175,
     "jobTitle": "Principal Release Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2483,7 +2275,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/6832a14f9b7d5101a82dfb48/principal-release-developer?lic=2040&uid=36922"
   },
   {
-    "id": 192,
+    "id": 176,
     "jobTitle": "Senior Software Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2496,7 +2288,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/688703717792540dbc695688/senior-software-developer?lic=2040&uid=36922"
   },
   {
-    "id": 193,
+    "id": 177,
     "jobTitle": "Consulting Software Developer III",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2509,7 +2301,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/68870bd59b7d500fecaca896/consulting-software-developer-iii?lic=2040&uid=36922"
   },
   {
-    "id": 194,
+    "id": 178,
     "jobTitle": "EDA Design Flow Development Engineer",
     "employer": "Intel",
     "location": "Phoenix, Arizona",
@@ -2522,7 +2314,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/67dc4b68534cfa000174f87b/eda-design-flow-development-engineer?lic=2040&uid=36922"
   },
   {
-    "id": 195,
+    "id": 179,
     "jobTitle": "Principal APEX Developer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2535,7 +2327,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/688aede37318e90d60998423/principal-apex-developer?lic=2040&uid=36922"
   },
   {
-    "id": 196,
+    "id": 180,
     "jobTitle": "Software Developer 4",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2548,7 +2340,7 @@
     "url": "https://jobseq.eqsuite.com/JobPost/View/688c52c77792540dbc6bf43a/software-developer-4?lic=2040&uid=36922"
   },
   {
-    "id": 197,
+    "id": 181,
     "jobTitle": "Senior Software Development Engineer",
     "employer": "Oracle",
     "location": "Phoenix, Arizona",
@@ -2559,109 +2351,5 @@
     "occupationName": "Software Developers",
     "soc": "15-1252.00",
     "url": "https://jobseq.eqsuite.com/JobPost/View/6886f99b9b7d510e1c24d955/senior-software-development-engineer?lic=2040&uid=36922"
-  },
-  {
-    "id": 198,
-    "jobTitle": "Source: JobsEQ\u00ae",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 199,
-    "jobTitle": "Data as of 02/27/2026",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 200,
-    "jobTitle": "1. Query:",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 201,
-    "jobTitle": "This region: Maricopa County, Arizona",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 202,
-    "jobTitle": "Postings where job titles contains: analyst, data, developer",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 203,
-    "jobTitle": "This industry: Information Technology and Analytical Instruments (US Cluster Mapping) (10123)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 204,
-    "jobTitle": "This occupations: Software Developers (15-1252.00)",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
-  },
-  {
-    "id": 205,
-    "jobTitle": "Exported on: Friday, February 27, 2026 10:15 AM",
-    "employer": "",
-    "location": "",
-    "datePosted": "",
-    "status": "",
-    "wage": null,
-    "category": "Software Developers",
-    "occupationName": "",
-    "soc": "",
-    "url": ""
   }
 ]

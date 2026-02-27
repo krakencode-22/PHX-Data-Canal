@@ -141,3 +141,9 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
+
+/* Native select options need readable colors */
+select option {
+  background: #1e293b;
+  color: #e2e8f0;
+}
