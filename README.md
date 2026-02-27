@@ -71,4 +71,4 @@ Open [localhost:5173](http://localhost:5173).
 
 ---
 
-*Dataset owned by Jared, Assistant Director, Human Services & Workforce Development. Dashboard built during a rapid prototyping session, February 2026.*
+*Dataset owned by Jared, Assistant Director, Human Services & Workforce Development. Dashboard built during a rapid prototyping session on February 27, 2026 — from raw Excel files to a live, publicly deployed dashboard in 1 hour and 12 minutes.*
